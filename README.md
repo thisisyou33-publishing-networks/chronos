@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kodezi Chronos
+# Revival Engine Chronos
 
 <p align="center">
   <img src="results/figures/chronos_hero.png" alt="Introducing Kodezi Chronos-1" width="100%">
